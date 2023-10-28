@@ -1,0 +1,39 @@
+.cal{
+    text-align: center;    
+    margin-top: 80px ;
+        background-color: darkcyan;
+        width: 50%;
+        height: 300px;
+        border-radius: 20px;
+       
+}
+body{
+    background-color: azure;
+}
+.heading{
+    margin: 30px;
+    color: rgb(236, 210, 12);
+}
+
+.num{
+    display:block;
+    margin: auto;
+    margin-bottom: 10px;
+
+}
+
+#add{
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+#sub{
+    margin-top: 20px;
+}
+#mul{
+    margin: 10px;
+}
+.resetbtn{
+    margin-top: 18px;
+    margin-right:6px ;
+}
